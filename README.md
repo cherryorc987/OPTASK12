@@ -16,10 +16,6 @@ By [Shivam Handa](https://github.com/cherryorc987)
 
 ![Login Page](/frontend/src/Images/login.png)
 
-![Dashboard](/frontend/src/Images/dashboard.png)
-
-![Project Page](/frontend/src/Images/profile.png)
-
 ![Profile Page](/frontend/src/Images/project.png)
 
 
